@@ -2,6 +2,6 @@ require 'sinatra'
 
 get '/' do
 
-    "Mi12perra34chanel56"
+    "HcUy6Re2LLBRtj"
 
 end
